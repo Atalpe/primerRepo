@@ -28,6 +28,4 @@ unir_pdfs(pdfs, archivo_salida)
 print(f"Archivos PDF unidos en {archivo_salida}")
 
 
-print("hola mundo")
-
-print("hola mundo 2")
+"""más cambios"""
